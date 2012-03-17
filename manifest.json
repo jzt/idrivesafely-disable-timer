@@ -8,7 +8,7 @@
             "http://deanchen.github.com/idrivesafely-disable-timer/*"
         ],
         "css": [],
-        "js": ["timer-disable.js"]
+        "js": ["jquery.min.js", "timer-disable.js"]
     }],
     "browser_action":{
     }
