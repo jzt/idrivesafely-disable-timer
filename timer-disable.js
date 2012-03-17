@@ -5,4 +5,4 @@ document.getElementsByTagName('head')[0].appendChild(script);
 
 $(function() {
     $("form[name='timer'] > input").val("0");
-})
+});
